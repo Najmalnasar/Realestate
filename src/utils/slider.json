@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hyatt Regency Thrissur",
+    "price": "47,043",
+    "detail": "Shoba Recidencies Thrissur ,Kerala , india",
+    "image": "./s1.jpg"
+  },
+  {
+    "name": "Grand Hyatt Kochi Bolgatty",
+    "price": "66,353",
+    "detail": "Radission Recidencies Kochi ,Kerala , india",
+    "image": "./s2.jpg"
+  },
+  {
+    "name": "Willow Residences",
+    "price": "35,853",
+    "detail": "Asset Recidencies Kozhikode ,Kerala , india",
+    "image": "./s3.jpg"
+  },
+  {
+    "name": "Chandys Windy Woods Munnar",
+    "price": "47,043",
+    "detail": "Skyline Recidencies Munnar ,Kerala , india",
+    "image": "./s4.jpg"
+  },
+  {
+    "name": "Brookside Gardens",
+    "price": "66,353",
+    "detail": "Shoba Recidencies Thrissur ,Kerala , india",
+    "image": "s5.jpg"
+  },
+  {
+    "name": "Hyatt Regency Thrissur",
+    "price": "35,853",
+    "detail": "Asset Recidencies Kozhikode ,Kerala , india",
+    "image": "./s2.jpg"
+  }
+]
